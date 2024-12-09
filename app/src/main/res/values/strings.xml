@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoPrice</string>
+    <string name="error_request_timeout">The Request TimeOut</string>
+    <string name="no_internet">No Internet</string>
+    <string name="unknown">Unknow Error</string>
+    <string name="too_many_request">Somethings Went Wrong,Try after Sometime!</string>
+    <string name="serialization">Serialize or Deserialize Error</string>
+    <string name="server_error">ServerSide Error</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24h">Change Last 24h\n</string>
+</resources>
